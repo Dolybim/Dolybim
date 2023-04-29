@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dolybim
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning html and css
+- 👀 I’m a Front End Developer
+- 🌱 I'm proficient in HTML, CSS, JavaScript, React, Typescript, Git and Github
 - 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me @dolybim2gud@gmail.com
+- 📫 How to reach me on ifedolapo.ayoola95@gmail.com
 
 <!---
 Dolybim/Dolybim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
